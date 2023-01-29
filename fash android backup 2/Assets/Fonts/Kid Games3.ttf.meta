@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6828570ec2403b54e8ad524f59f6cc1b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kid Games
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cc80b1c21cca4ea48ba8b2969f50281b, type: 3}
+  - {fileID: 12800000, guid: 6b34f84be75b58443b851960e46333d6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
